@@ -1,0 +1,57 @@
+li{
+    display: inline;
+    margin-right: 10px;
+  }
+
+ul{
+  text-align: center;
+  font-weight: 900;
+
+}
+
+h1{
+  text-align: right;
+}
+
+body{
+  width: auto;
+  height:auto;
+  background-position: center;
+  background-image: url("https://images.squarespace-cdn.com/content/v1/5aa5a05cfcf7fd70d5c3b558/1521246372456-TKBYGGL86AFJZZZU8O6H/ke17ZwdGBToddI8pDm48kBlUQO3gphSrXeDA1uWYKvF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UdRLF2h9kRJersF7qISFLg6HSFUeNwKJWO9ldaUwusL2H3bqxw7fF48mhrq5Ulr0Hg/Artboard+2+copy+2%402x.png?format=2500w")
+}
+
+.me{
+  font-weight: 600;
+  text-align: center;
+  margin-top: 120px;
+}
+
+.moveit{
+  font-weight: 600;
+}
+
+.nutr{
+  font-weight: 600;
+  /* display: inline; */
+  /* display: flex;
+  flex-direction: column; */
+}
+
+button{
+  border-radius: 12px;
+  background-color: rgb(254, 255, 180);
+}
+
+input{
+  border-radius: 5px;
+  background-color: rgb(245, 250, 181);
+}
+
+/* .recipeContent{
+  display: grid;
+  grid-template-columns:220px ;
+  align-items: baseline; 
+ display: flex;
+  flex-direction: column; 
+   display: inline;
+} */
