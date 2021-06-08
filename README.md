@@ -3,6 +3,9 @@
 This application is called RecipeMust. 
 RecipeMust was created with the purpose of providing recipes and nutrition facts for the user to find their desired recipe or learn about their ingredients nutrition facts. In this project was created using Reactjs, route, hooks, component state and two different API's.
 
+to view the full website feel free to check it out through here!
+https://recipemust.herokuapp.com/ 
+
 User must login in order to access recipes and nutrition facts.
 ![login](https://user-images.githubusercontent.com/80718484/120909780-73967400-c62d-11eb-8fdc-0cdba7c5046f.PNG)
 
