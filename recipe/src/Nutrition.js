@@ -21,7 +21,7 @@ class Nutrition extends Component{
         fetch(url, {
             "method": "GET",
             "headers": {
-                "x-rapidapi-key": "bd27ff3bbfmshc4dc8718dddaf67p1d8e7djsnd1f2c95e440d",
+                "x-rapidapi-key": process.env.REACT_APP_KEY,
                 "x-rapidapi-host": "edamam-food-and-grocery-database.p.rapidapi.com"
             }
     })

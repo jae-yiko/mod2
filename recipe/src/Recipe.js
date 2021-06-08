@@ -31,7 +31,7 @@ class Recipe extends Component{
         fetch("https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/search?query="+ this.state.search, {
             "method": "GET",
             "headers": {
-                "x-rapidapi-key": "bd27ff3bbfmshc4dc8718dddaf67p1d8e7djsnd1f2c95e440d",
+                "x-rapidapi-key": process.env.REACT_APP_KEY,
                 "x-rapidapi-host": "spoonacular-recipe-food-nutrition-v1.p.rapidapi.com"
             }
         })
@@ -56,7 +56,7 @@ class Recipe extends Component{
         fetch(`https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/${event.target.id}/ingredientWidget.json`, {
             "method": "GET",
             "headers": {
-                "x-rapidapi-key": "bd27ff3bbfmshc4dc8718dddaf67p1d8e7djsnd1f2c95e440d",
+                "x-rapidapi-key": process.env.REACT_APP_KEY,
                 "x-rapidapi-host": "spoonacular-recipe-food-nutrition-v1.p.rapidapi.com"
             }
         })
