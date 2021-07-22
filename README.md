@@ -6,7 +6,7 @@ RecipeMust was created with the purpose of providing recipes and nutrition facts
 to view the full website feel free to check it out through here!
 https://recipemust.herokuapp.com/ 
 
-User must login in order to access recipes and nutrition facts.
+User must login in order to access recipes and nutrition facts. User: jae Password:123
 ![login](https://user-images.githubusercontent.com/80718484/120909780-73967400-c62d-11eb-8fdc-0cdba7c5046f.PNG)
 
 Once the user sucessfully signs in, they are able to search recipes within the home page
