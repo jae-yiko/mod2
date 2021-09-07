@@ -5,7 +5,9 @@ to view the full website feel free to check it out through here!
 https://recipemust.herokuapp.com/ 
 
 ## Description
-User must login in order to access recipes and nutrition facts. User: jae Password:123
+User must login in order to access recipes and nutrition facts. 
+User: jae 
+Password:123
 ![login](https://user-images.githubusercontent.com/80718484/120909780-73967400-c62d-11eb-8fdc-0cdba7c5046f.PNG)
 
 Once the user sucessfully signs in, they are able to search recipes within the home page
@@ -21,5 +23,5 @@ Within the nutition page, users are able to search the nutrition facts such as c
 ## Future Plans of Implementations
 1) Redux
 2) Logout feature
-3) Conditionally render the "See Ingredient" button
+3) Conditionally render the "See Ingredient" button.
 4) Make searching all horizontal.
