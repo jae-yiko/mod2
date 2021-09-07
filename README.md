@@ -1,11 +1,10 @@
-
-# mod2
-This application is called RecipeMust. 
+# RecipeMust
 RecipeMust was created with the purpose of providing recipes and nutrition facts for the user to find their desired recipe or learn about their ingredients nutrition facts. In this project was created using Reactjs, route, hooks, component state and two different API's.
 
 to view the full website feel free to check it out through here!
 https://recipemust.herokuapp.com/ 
 
+## Description
 User must login in order to access recipes and nutrition facts. User: jae Password:123
 ![login](https://user-images.githubusercontent.com/80718484/120909780-73967400-c62d-11eb-8fdc-0cdba7c5046f.PNG)
 
@@ -19,5 +18,8 @@ Within the nutition page, users are able to search the nutrition facts such as c
 ![nutrition](https://user-images.githubusercontent.com/80718484/120910304-adb64480-c632-11eb-9509-35375de7682c.PNG)
 
 
-
-Few things I would like to incorporate in the near future: Redux, Logout feature, conditionally render the "See Ingredient" button, and make my searching all horizontal.
+## Future Plans of Implementations
+1) Redux
+2) Logout feature
+3) Conditionally render the "See Ingredient" button
+4) Make searching all horizontal.
